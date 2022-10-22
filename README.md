@@ -1,6 +1,4 @@
-
-
-### Seja bem vindo ao meu perfil, me chamo Wedley
+### Seja bem vindo ao meu perfil, me chamo Wedley 🍷🗿
 
 Redes Sociais:
 

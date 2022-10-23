@@ -1,8 +1,5 @@
 # Seja bem vindo ao meu perfil 🍷🗿
 
-<img src="https://user-images.githubusercontent.com/99206531/197367951-0c3d322e-7f74-47b7-ba0d-0586887a6791.jpg" width="200" height="180" />
-
-
 Olá, me chamo Wedley, tenho 17 anos e atualmente estudo no Instituto Federal Catarinense - Campus Araquari... 
 
 Estou cursando o segundo ano de Informatica para Internet Integrado ao Ensino Médio e pretendo me tornar um programador, até o momento o foco do meu estudo é o desenvolvimento web, mas pretendo me integrar na área mobile. Além da parte de desenvolvivento de websites, tenho estudado principios da computação, software e banco de dados.

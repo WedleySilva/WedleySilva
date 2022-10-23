@@ -2,15 +2,15 @@
 
 **Olá, me chamo Wedley, tenho 17 anos e atualmente estudo no Instituto Federal Catarinense - Campus Araquari**... 
 
+$\color{#BFACE0}{ Contato:}$ 
+
+<a href = "mailto:wedleysilva2105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 Estou cursando o segundo ano de Informatica para Internet Integrado ao Ensino Médio e pretendo me tornar um programador, até o momento o foco do meu estudo é o desenvolvimento web, mas pretendo me integrar na área mobile. Além da parte de desenvolvivento de websites, tenho estudado principios da computação, software e banco de dados.
 
-| $\color{#BFACE0}{Redes~Sociais:}$  |  $\color{#BFACE0}{ Design:}$ |
+| $\color{#BFACE0}{Redes~Sociais:}$ |  $\color{#BFACE0}{ Design:}$ |
 |---|---|
-| [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silva_wedley/)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wedley-silva-809104247/) |  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) | 
-
-Entre em contato comigo por este Email: 
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&<WedleySilva2105@gmail.com>)
+| [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silva_wedley/)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wedley-silva-809104247/) | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) |
 
 | $\color{#BFACE0}{Minhas~Skills:}$ |
 |---|

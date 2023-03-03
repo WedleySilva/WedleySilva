@@ -1,4 +1,4 @@
-#vai tomar no cu coronavirus
+## vai tomar no cu coronavirus ##
 
-** ado ado ado, vc eh gay **
+**ado ado ado, vc eh gay**
 

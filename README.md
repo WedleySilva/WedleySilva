@@ -1,5 +1,4 @@
-# Seja bem vindo ao meu perfil 🍷🗿
+#vai tomar no cu coronavirus
 
-**Olá, me chamo Wedley, tenho 17 anos e atualmente estudo no Instituto Federal Catarinense - Campus Araquari**... 
-
+** ado ado ado, vc eh gay **
 

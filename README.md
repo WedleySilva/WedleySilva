@@ -1,4 +1,16 @@
-## vai tomar no cu coronavirus ##
+## Sobre mim ##
 
-**ado ado ado, vc eh gay**
+Meu nome é Wedley, tenho 17 anos e sou natural de Garuva. Atualmente estudo no IFC Araquari e tenho conhecimentos na área de tecnologia.
+
+## Experiência ##
+Tenho experiência em algumas tecnologias, tais como:
+
+- VueJS
+- ReactJS
+- JSON
+- React Native
+- Django
+- Objetivo
+
+Meu objetivo é seguir na área de tecnologia e buscar sempre novos conhecimentos para me desenvolver profissionalmente. Acredito que a área de software é muito promissora e quero contribuir para o desenvolvimento tecnológico do mundo.
 

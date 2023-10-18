@@ -1,6 +1,6 @@
 ## Sobre mim 
 
-Meu nome é Wedley, tenho 17 anos e sou natural de Garuva. Atualmente estudo no IFC Araquari e tenho conhecimentos na área de tecnologia.
+Meu nome é Wedley, tenho 18 anos e sou natural de Garuva. Atualmente estudo no IFC Araquari e tenho conhecimentos na área de tecnologia.
 
 ## Experiência 
 Tenho experiência em algumas tecnologias, tais como:

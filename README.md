@@ -3,6 +3,7 @@
 Meu nome é Wedley, tenho 18 anos e sou natural de Garuva. Atualmente estudo no IFC Araquari e tenho conhecimentos na área de tecnologia.
 
 - [Linkedin](https://www.linkedin.com/in/wedley-silva-809104247/)
+- [Email](wedleysilva2105@gmail.com)
 
 ## Experiência 
 Tenho experiência em algumas tecnologias, tais como:

@@ -1,4 +1,4 @@
-## Sobre mim 
+## Hello World 🌐
 
 Olá, me chamo Wedley, pretendo seguir na área da tecnologia, aprimorando meus conhecimnentos teóricos e práticos fortalecidos durante **3 anos de curso técnico**, onde aprendi: 
 

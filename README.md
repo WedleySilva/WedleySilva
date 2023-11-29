@@ -6,7 +6,7 @@ Olá, me cahmo Wedley, pretendo seguir na área da tecnologia, aprimorando meus 
 - Desenvolvimeto de aplicativos móveis, websites e banco de dados
 - Utilização de pacotes, bibliotecas e frameworks para melhor desenvolvimento dos projetos.
 
-## Social 
+## Contato 
 - [Linkedin](https://www.linkedin.com/in/wedley-silva-809104247/)
 - Wedleysilva2105@gmail.com
 

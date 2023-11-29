@@ -1,18 +1,38 @@
 ## Sobre mim 
 
-Meu nome é Wedley, tenho 18 anos e sou natural de Garuva. Atualmente estudo no IFC Araquari e tenho conhecimentos na área de tecnologia.
+Olá, me cahmo Wedley, pretendo seguir na área da tecnologia, aprimorando meus conhecimnentos teoricos e práticos fortalecidos durante  **3 anos de curso técnico**, onde aprendi: 
 
+- Principais conceitos da Engenharia de Software, como: requisitos funcionais e não funcionais, regras de negócio, padrões de organização, design e prototipação.
+- Desenvolvimeto de aplicativos móveis, websites e banco de dados
+- Utilização de pacotes, bibliotecas e frameworks para melhor desenvolvimento dos projetos.
+
+## Social 
 - [Linkedin](https://www.linkedin.com/in/wedley-silva-809104247/)
 - Wedleysilva2105@gmail.com
 
 ## Experiência 
 Tenho experiência em algumas tecnologias, tais como:
 
-- VueJS
-- ReactJS
-- JSON
-- React Native
-- Django
+*Front-end:*
+- HTML5, CSS e Javascprit 🟠 🔵 🟡
+- Vue JS 🟢 🟢 🟢
+- React Native 🔵🔵🔵 
+- React JS 🔵
+
+*Back-end:*
+- Python 🔵 🟡 🔵
+- Django 🟢 🟢
+
+*Ferramentas, pacotes, interpretadores, comunicadores:*
+- Github ⚫ ⚪ ⚫
+- GIt 🟠 🟠 🟠
+- JSON ⚫⚫
+- Axios 🔵⚪
+- Node.js 🟢 🟢
+
+*Linguas Estrangeiras*
+- 🇬🇧 Inglês intermediário
+- 🇩🇪 Alemão (4 anos)
 
 ## Objetivo 
 

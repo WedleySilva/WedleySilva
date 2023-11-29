@@ -24,6 +24,7 @@ Tenho experiência em algumas tecnologias, tais como:
 - Django 🟢 🟢
 
 *Ferramentas, pacotes, interpretadores, comunicadores:*
+- Node Packages Manager (npm) 🟠 🟠 🟠
 - Github ⚫ ⚪ ⚫
 - GIt 🟠 🟠 🟠
 - JSON ⚫⚫

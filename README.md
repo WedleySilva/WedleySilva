@@ -32,6 +32,8 @@ Tenho experiência em algumas tecnologias, tais como:
 - 🇬🇧 Inglês intermediário
 - 🇩🇪 Alemão (4 anos)
 
+<img src="https://github-readme-stats.vercel.app/api?username=WedleySilva&hide=contribs,prs,issues,stars&hide_rank=true&include_all_commits=true" />
+
 ## Objetivo 
 
 Meu objetivo é seguir na área de tecnologia e buscar sempre novos conhecimentos para me desenvolver profissionalmente. Acredito que a área de software é muito promissora e quero contribuir para o desenvolvimento tecnológico do mundo.
@@ -39,5 +41,3 @@ Meu objetivo é seguir na área de tecnologia e buscar sempre novos conhecimento
 ## Contato 
 - [Linkedin](https://www.linkedin.com/in/wedley-silva-809104247/)
 - Wedleysilva2105@gmail.com
-
-<img src="https://github-readme-stats.vercel.app/api?username=WedleySilva&hide=contribs,prs,issues,stars&hide_rank=true&include_all_commits=true" />

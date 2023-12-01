@@ -6,10 +6,6 @@ Olá, me chamo Wedley, pretendo seguir na área da tecnologia, aprimorando meus 
 - Desenvolvimeto de aplicativos móveis, websites e banco de dados.
 - Utilização de pacotes, bibliotecas e frameworks para melhor desenvolvimento dos projetos.
 
-## Contato 
-- [Linkedin](https://www.linkedin.com/in/wedley-silva-809104247/)
-- Wedleysilva2105@gmail.com
-
 ## Experiência 
 Tenho experiência em algumas tecnologias, tais como:
 
@@ -39,3 +35,6 @@ Tenho experiência em algumas tecnologias, tais como:
 
 Meu objetivo é seguir na área de tecnologia e buscar sempre novos conhecimentos para me desenvolver profissionalmente. Acredito que a área de software é muito promissora e quero contribuir para o desenvolvimento tecnológico do mundo.
 
+## Contato 
+- [Linkedin](https://www.linkedin.com/in/wedley-silva-809104247/)
+- Wedleysilva2105@gmail.com

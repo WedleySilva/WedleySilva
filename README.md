@@ -6,7 +6,6 @@ Olá, me chamo Wedley, pretendo seguir na área da tecnologia, aprimorando meus 
 - Desenvolvimeto de aplicativos móveis, websites e banco de dados.
 - Utilização de pacotes, bibliotecas e frameworks para melhor desenvolvimento dos projetos.
 
-<img src="https://github-readme-stats.vercel.app/api?username=WedleySilva&hide=contribs,prs,issues,stars&hide_rank=true&include_all_commits=true" />
 
 ## Experiência 
 Tenho experiência em algumas tecnologias, tais como:
@@ -40,3 +39,5 @@ Meu objetivo é seguir na área de tecnologia e buscar sempre novos conhecimento
 ## Contato 
 - [Linkedin](https://www.linkedin.com/in/wedley-silva-809104247/)
 - Wedleysilva2105@gmail.com
+
+<img src="https://github-readme-stats.vercel.app/api?username=WedleySilva&hide=contribs,prs,issues,stars&hide_rank=true&include_all_commits=true" />

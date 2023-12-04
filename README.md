@@ -1,6 +1,6 @@
 ## Hello World 🌐
 
-Olá, me chamo Wedley, pretendo seguir na área da tecnologia, aprimorando meus conhecimnentos teóricos e práticos fortalecidos durante **3 anos de curso técnico**, onde aprendi: 
+Olá, me chamo Wedley, trabalho na área da tecnologia, aprimorando meus conhecimnentos teóricos e práticos fortalecidos durante **3 anos**, onde desenvolvi: 
 
 - Principais conceitos da Engenharia de Software, como: requisitos funcionais e não funcionais, regras de negócio, padrões de organização, design e prototipação.
 - Desenvolvimeto de aplicativos móveis, websites e banco de dados.

@@ -7,7 +7,7 @@ Olá, me chamo Wedley, trabalho na área da tecnologia, aprimorando meus conheci
 - Utilização de pacotes, bibliotecas e frameworks para melhor desenvolvimento dos projetos.
 
 
-## Experiência 
+## Experiência 🤓
 Tenho experiência em algumas tecnologias, tais como:
 
 *Front-end:*
@@ -20,7 +20,7 @@ Tenho experiência em algumas tecnologias, tais como:
 - Python 🔵 🟡 🔵
 - Django 🟢 🟢
 
-*Ferramentas, pacotes, interpretadores, comunicadores:*
+*Ferramentas, pacotes, interpretadores, comunicadores:* 👨‍💻
 - npm (Node Package Manager) 🟠 🟠 🟠
 - Github ⚫ ⚪ ⚫
 - GIt 🟠 🟠 🟠
@@ -28,16 +28,16 @@ Tenho experiência em algumas tecnologias, tais como:
 - Axios 🔵⚪
 - Node.js 🟢 🟢
 
-*Linguas Estrangeiras*
+*Linguas Estrangeiras* 🗺️
 - 🇬🇧 Inglês intermediário
 - 🇩🇪 Alemão (4 anos)
 
 <img src="https://github-readme-stats.vercel.app/api?username=WedleySilva&hide=contribs,prs,issues,stars&hide_rank=true&include_all_commits=true" />
 
-## Objetivo 
+## Objetivo 💬
 
 Meu objetivo é seguir na área de tecnologia e buscar sempre novos conhecimentos para me desenvolver profissionalmente. Acredito que a área de software é muito promissora e quero contribuir para o desenvolvimento tecnológico do mundo.
 
-## Contato 
+## Contato 📬
 - [Linkedin](https://www.linkedin.com/in/wedley-silva-809104247/)
 - Wedleysilva2105@gmail.com

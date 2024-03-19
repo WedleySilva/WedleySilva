@@ -23,7 +23,7 @@ Tenho experiência em algumas tecnologias, tais como:
 *Ferramentas, pacotes, interpretadores, comunicadores:* 
 - npm (Node Package Manager) 🟠 🟠 🟠
 - Github ⚫ ⚪ ⚫
-- GIt 🟠 🟠 🟠
+- Git 🟠 🟠 🟠
 - JSON ⚫⚫
 - Axios 🔵⚪
 - Node.js 🟢 🟢

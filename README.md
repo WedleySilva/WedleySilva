@@ -1,14 +1,14 @@
 ## Hello World 🌐
 
-Olá, me chamo Wedley, trabalho na área da tecnologia, aprimorando meus conhecimnentos teóricos e práticos fortalecidos durante **3 anos**, onde desenvolvi: 
+Hello, my name is Wedley, I work in the technology area, improving my theoretical and practical knowledge strengthened during **3 years**, where I developed:
 
-- Principais conceitos da Engenharia de Software, como: requisitos funcionais e não funcionais, regras de negócio, padrões de organização, design e prototipação.
-- Desenvolvimeto de aplicativos móveis, websites e banco de dados.
-- Utilização de pacotes, bibliotecas e frameworks para melhor desenvolvimento dos projetos.
+- Main concepts of Software Engineering, such as: functional and non-functional requirements, business rules, organization patterns, design and prototyping.
+- Development of mobile applications, websites and databases.
+- Use of packages, libraries and frameworks for better project development.
 
 
-## Experiência 🤓
-Tenho experiência em algumas tecnologias, tais como:
+## Experience 🤓
+I have experience in some technologies, such as:
 
 *Front-end:*
 - HTML5, CSS e Javascprit 🟠 🔵 🟡
@@ -20,7 +20,7 @@ Tenho experiência em algumas tecnologias, tais como:
 - Python 🔵 🟡 🔵
 - Django 🟢 🟢
 
-*Ferramentas, pacotes, interpretadores, comunicadores:* 
+*Tools, packages, interpreters, communicators:* 
 - npm (Node Package Manager) 🟠 🟠 🟠
 - Github ⚫ ⚪ ⚫
 - Git 🟠 🟠 🟠
@@ -28,16 +28,16 @@ Tenho experiência em algumas tecnologias, tais como:
 - Axios 🔵⚪
 - Node.js 🟢 🟢
 
-*Linguas Estrangeiras* 🗺
-- 🇬🇧 Inglês intermediário
-- 🇩🇪 Alemão (4 anos)
+*Foreign languages* 🗺
+- 🇬🇧 Intermediary English
+- 🇩🇪 German (4 years)
 
 <img src="https://github-readme-stats.vercel.app/api?username=WedleySilva&hide=contribs,prs,issues,stars&hide_rank=true&include_all_commits=true" />
 
-## Objetivo 💻
+## Objective 💻
 
-Meu objetivo é seguir na área de tecnologia e buscar sempre novos conhecimentos para me desenvolver profissionalmente. Acredito que a área de software é muito promissora e quero contribuir para o desenvolvimento tecnológico do mundo.
+My objective is to continue in the technology field and always seek new knowledge to develop professionally. I believe that the software area is very promising and I want to contribute to the technological development of the world.
 
-## Contato 📬
+## Contact 📬
 - [Linkedin](https://www.linkedin.com/in/wedley-silva-809104247/)
 - Wedleysilva2105@gmail.com

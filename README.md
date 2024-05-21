@@ -11,7 +11,7 @@ Hello, my name is Wedley, I work in the technology area, improving my theoretica
 I have experience in some technologies, such as:
 
 *Front-end:*
-- HTML5, CSS e Javascprit 🟠 🔵 🟡
+- HTML5, CSS and Javascprit 🟠 🔵 🟡
 - Vue JS 🟢 🟢 🟢
 - React Native 🔵🔵🔵 
 - React JS 🔵

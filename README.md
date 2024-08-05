@@ -11,22 +11,22 @@ Hello, my name is Wedley, I work in the technology area, improving my theoretica
 I have experience in some technologies, such as:
 
 *Front-end:*
-- HTML5, CSS and Javascprit 🟠 🔵 🟡
-- Vue JS 🟢 🟢 🟢
-- React Native 🔵🔵🔵 
-- React JS 🔵
+- HTML5, CSS and Javascprit 100%
+- Vue JS 98%
+- React Native 90%
+- React JS 98%
 
 *Back-end:*
-- Python 🔵 🟡 🔵
-- Django 🟢 🟢
+- Python 90%
+- Django 80%
 
 *Tools, packages, interpreters, communicators:* 
-- npm (Node Package Manager) 🟠 🟠 🟠
-- Github ⚫ ⚪ ⚫
-- Git 🟠 🟠 🟠
-- JSON ⚫⚫
-- Axios 🔵⚪
-- Node.js 🟢 🟢
+- npm (Node Package Manager) 80%
+- Github 100%
+- Git 100%
+- JSON 80%
+- Axios 98%
+- Node.js 98%
 
 *Foreign languages* 🗺
 - 🇬🇧 Intermediary English

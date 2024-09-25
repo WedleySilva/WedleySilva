@@ -39,5 +39,6 @@ I have experience in some technologies, such as:
 My objective is to continue in the technology field and always seek new knowledge to develop professionally. I believe that the software area is very promising and I want to contribute to the technological development of the world.
 
 ## Contact 📬
-- [Linkedin](https://www.linkedin.com/in/wedley-silva-809104247/)
+- [My personal page](https://wedley.vercel.app)
+- [Linkedin](https://www.linkedin.com/in/wedley-silva-809104247)
 - Wedleysilva2105@gmail.com

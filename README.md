@@ -46,7 +46,7 @@ I'm Wedley, a technology enthusiast passionate about creating digital solutions.
 
 ---
 
-## 🌍 Languages
+## 🌍 Communication
 
 - 🇬🇧 English — Intermediate  
 - 🇩🇪 German — 4 years  

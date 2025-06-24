@@ -1,44 +1,73 @@
-## Hello World 🌐
+<h1 align="center">Hello World 🌐</h1>
 
-Hello, my name is Wedley, I work in the technology area, improving my theoretical and practical knowledge strengthened during **3 years**, where I developed:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=50&color=00BFFF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=I'm+Wedley+Silva;Software+Engineer!;" alt="Typing animation" />
+</p>
 
-- Main concepts of Software Engineering, such as: functional and non-functional requirements, business rules, organization patterns, design and prototyping.
-- Development of mobile applications, websites and databases.
-- Use of packages, libraries and frameworks for better project development.
+---
 
+## 👨‍💻 About Me
 
-## Experience 🤓
-I have experience in some technologies, such as:
+I'm Wedley, a technology enthusiast passionate about creating digital solutions. I've been strengthening my theoretical and practical knowledge, where I developed:
 
-*Front-end:*
-- HTML5, CSS and Javascprit **100%**
-- Vue JS **98%**
-- React Native **90%**
-- React JS **98%**
+- 💡 Solid understanding of **Software Engineering** concepts (functional/non-functional requirements, business rules, prototyping).
+- 📱 Development of **mobile apps**, **websites**, and **databases**.
+- 🚀 Mastery of tools, libraries, and frameworks to boost project performance and quality.
 
-*Back-end:*
-- Python **90%**
-- Django **80%**
+---
 
-*Tools, packages, interpreters, communicators:* 
-- npm (Node Package Manager) **80%**
-- Github **100%**
-- Git **100%**
-- JSON **80%**
-- Axios **98%**
-- Node.js **98%**
+## 🚀 Tech Stack
 
-*Foreign languages* 🗺
-- 🇬🇧 Intermediary English
-- 🇩🇪 German (4 years)
+### 💻 Front-end
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React.js & React Native"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=WedleySilva&hide=contribs,prs,issues,stars&hide_rank=true&include_all_commits=true" />
+### 🧠 Back-end
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
+</p>
 
-## Objective 💻
+### 🛠 Tools & Libraries
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" title="npm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+</p>
 
-My objective is to continue in the technology field and always seek new knowledge to develop professionally. I believe that the software area is very promising and I want to contribute to the technological development of the world.
+---
 
-## Contact 📬
-- [My personal page](https://wedley.vercel.app)
-- [Linkedin](https://www.linkedin.com/in/wedley-silva-809104247)
-- Wedleysilva2105@gmail.com
+## 🌍 Languages
+
+- 🇬🇧 English — Intermediate  
+- 🇩🇪 German — 4 years  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WedleySilva&show_icons=true&theme=react&hide_border=true&include_all_commits=true" width="48%" />
+</p>
+
+---
+
+## 🎯 Objective
+
+I aim to continue growing in the **technology** field and keep learning every day. I believe in the power of **software to change the world**, and I want to be a part of that transformation by building meaningful and impactful solutions.
+
+---
+
+## 📬 Contact
+
+- 🔗 [Personal Page](https://wedley.vercel.app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/wedley-silva-809104247)  
+- 📧 Wedleysilva2105@gmail.com
+
+---

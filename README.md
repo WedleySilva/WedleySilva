@@ -1,8 +1,11 @@
-<h1 align="center">Hello World 🌐</h1>
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hello+World+🌐" 
+    alt="Typing animation" 
+  />
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=50&color=00BFFF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=I'm+Wedley;Software+Engineer!;" alt="Typing animation" />
-</p>
+<h3 align="center">🔵 <strong>I'm Wedley — Software Engineer!</strong></h3>
 
 ---
 
@@ -69,5 +72,3 @@ I aim to continue growing in the **technology** field and keep learning every da
 - 🔗 [Personal Page](https://wedley.vercel.app)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/wedley-silva-809104247)  
 - 📧 Wedleysilva2105@gmail.com
-
----

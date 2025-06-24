@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 🌐</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=50&color=00BFFF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=I'm+Wedley+Silva;Software+Engineer!;" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=50&color=00BFFF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=I'm+Wedley;Software+Engineer!;" alt="Typing animation" />
 </p>
 
 ---

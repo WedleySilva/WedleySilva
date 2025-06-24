@@ -70,5 +70,5 @@ I aim to continue growing in the **technology** field and keep learning every da
 ## 📬 Contact
 
 - 🔗 [Personal Page](https://wedley.vercel.app)  
-- 💼 [LinkedIn](https://linkedin.com/in/wedley-silva-809104247)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/wedley-silva-schmoeller-809104247/)
 - 📧 Wedleysilva2105@gmail.com

@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B2447&height=150&section=header&text=Wedley%20Silva%20Schmoeller&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD54F&height=150&section=header&text=Wedley%20Silva%20Schmoeller&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=white&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Engineer;Arquitetura+e+Qualidade+de+Código;Aplicações+Escaláveis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD54F&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Engineer;Arquitetura+e+Qualidade+de+Código;Aplicações+Escaláveis" alt="Typing SVG" />
 </a>
 
 </div>
@@ -107,6 +107,6 @@ Aplicativo mobile desenvolvido com foco em usabilidade para verificação, contr
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2447,100:19376D&height=110&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD54F,100:FFC107&height=110&section=footer"/>
 
 </div>
